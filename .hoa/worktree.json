@@ -1,0 +1,512 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2592,
+    "time": 1751765569,
+    "hash": "f5c23d4f8436a3af3e13e8c20b0c2da6af709119"
+  },
+  ".hoa/worktree.json": {
+    "size": 16734,
+    "time": 1751764167,
+    "hash": "2ed117518597c2b4c001c11fe8f18c230179c3d8"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713079999,
+    "hash": "266807365fb21930bb8d9b2668481328608c5fd4"
+  },
+  "README.md": {
+    "size": 7695,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/README.md": {
+    "size": 451,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/debug_example/大数相加修改与注意点.docx": {
+    "size": 19605,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/debug_example/大数阶乘修改与注意点.docx": {
+    "size": 20149,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/debug_example/查找函数修改与注意点.docx": {
+    "size": 18321,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业1-自动化6班-210320621-吴俊达.docx": {
+    "size": 555133,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业2-自动化6班-210320621-吴俊达.docx": {
+    "size": 952439,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业3-自动化6班-210320621-吴俊达.docx": {
+    "size": 681612,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业4-自动化6班-210320621-吴俊达.docx": {
+    "size": 272428,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业5-自动化6班-210320621-吴俊达.docx": {
+    "size": 73424,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2021-WJD_version/作业6-自动化6班-210320621-吴俊达.docx": {
+    "size": 244777,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/2023-afterclass exercises-Gaster.zip": {
+    "size": 27116,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "assignments/README.md": {
+    "size": 33,
+    "time": 1701189829,
+    "hash": "eb55dbeffe0551a5b3c505a4561c2720fd96af8f"
+  },
+  "books/.gitattributes": {
+    "size": 258,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/C Primer Plus 第6版 中文版.pdf": {
+    "size": 22162465,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/C程序设计 第四版 清华大学出版社.pdf": {
+    "size": 19399835,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/No.2 C陷阱与缺陷.pdf": {
+    "size": 5025966,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/No.3 [C标准库].P.J.Plauger.扫描版.pdf": {
+    "size": 56771805,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/No.4 C语言接口与实现.pdf": {
+    "size": 7534613,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/No.5 C专家编程+(高清晰).pdf": {
+    "size": 14548215,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/No.6 你必须知道的495个C语言问题.pdf": {
+    "size": 19700965,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "books/README.md": {
+    "size": 91,
+    "time": 1699371719,
+    "hash": "99a6f625367d421c3d3dfc97a09ebbe22e954451"
+  },
+  "exams/2016深圳高级语言程序设计期末答案.doc": {
+    "size": 96768,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2016深圳高级语言程序设计期末试题.doc": {
+    "size": 89088,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2017深圳高级语言程序设计期末试题.docx": {
+    "size": 30470,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2021深圳高级语言程序设计期末试题-代码高亮.pdf": {
+    "size": 1168899,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2021深圳高级语言程序设计期末试题-无代码高亮.pdf": {
+    "size": 1157124,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2021秋C语言程序设计复习题答案（修订）.pdf": {
+    "size": 170449,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2021秋C语言程序设计复习题（修订）.pdf": {
+    "size": 373929,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2023深圳高级语言程序设计期末.pdf": {
+    "size": 466997,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/2024年秋程序设计与思维实践期末考试（回忆版）.pdf": {
+    "size": 632285,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "exams/README.md": {
+    "size": 57,
+    "time": 1701189829,
+    "hash": "eb55dbeffe0551a5b3c505a4561c2720fd96af8f"
+  },
+  "labs/2020实验课件及附加题/第1讲 熟悉实验环境和初级编程.pdf": {
+    "size": 2914953,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第2讲 高级语言程序设计-单步调试&基本运算、三角形判断.pdf": {
+    "size": 1437678,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第3讲 高级语言程序设计-断点调试&素数探求、国王的许诺.pdf": {
+    "size": 1047181,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第4讲 高级语言程序设计-程序测试&计算机辅助教学系统.pdf": {
+    "size": 1303592,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第5讲 编码规范&学生成绩管理系统V1.0.pdf": {
+    "size": 930329,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第6讲 软件文档&学生成绩管理系统V2.0.pdf": {
+    "size": 917514,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第7讲 版本管理&学生成绩管理系统V3.0.pdf": {
+    "size": 1654071,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第8讲 学生成绩管理系统V4.0.pdf": {
+    "size": 1358113,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/第9讲 学生成绩管理系统V5.0.pdf": {
+    "size": 1337432,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题1/C_ex1_NLP.pdf": {
+    "size": 452404,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题1/vocabulary.txt": {
+    "size": 22683,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题1/words.txt": {
+    "size": 212097,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/C_ex2_CV.pdf": {
+    "size": 1968828,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/Image.cbp": {
+    "size": 1263,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/Image.depend": {
+    "size": 444,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/Image.layout": {
+    "size": 678,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/bin/lily.bmp": {
+    "size": 478554,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/cv.c": {
+    "size": 4332,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/cv.h": {
+    "size": 1090,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/girl.bmp": {
+    "size": 411454,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/main.c": {
+    "size": 519,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/result.bmp": {
+    "size": 411454,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题2/Image/xm.bmp": {
+    "size": 530514,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题3/C_ex3_MC.docx": {
+    "size": 1398441,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题3/C_ex3_MC.pdf": {
+    "size": 1068311,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题解题思路_liangs333.md": {
+    "size": 753,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2020实验课件及附加题/附加题/附加题解题思路_xyfJASON.md": {
+    "size": 1532,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "labs/2023Experiment-Gaster.zip": {
+    "size": 317515,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "materials/README.md": {
+    "size": 51,
+    "time": 1701189829,
+    "hash": "eb55dbeffe0551a5b3c505a4561c2720fd96af8f"
+  },
+  "notes/README.md": {
+    "size": 144,
+    "time": 1737128685,
+    "hash": "cfd62812a915a1f6eda83ca0748022c7b740edbc"
+  },
+  "slides/22秋课件/22秋第0讲 为什么要学C语言 (1学时）.ppt": {
+    "size": 3954176,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第10章 字符串.ppt": {
+    "size": 4656640,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第11.4 动态数组.ppt": {
+    "size": 956416,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第11章 指针和数组.ppt": {
+    "size": 2632704,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第12章 结构体和共用体.ppt": {
+    "size": 4377600,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第13章 文件操作.ppt": {
+    "size": 3039232,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第1讲 C数据类型.ppt": {
+    "size": 6517760,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第2讲 简单的算术运算与表达式.ppt": {
+    "size": 2963968,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第3讲 选择控制结构1.ppt": {
+    "size": 2683904,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第4-5讲 循环控制结构 .ppt": {
+    "size": 4342784,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第6讲 函数(杨).ppt": {
+    "size": 5531648,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第7讲第8章 数组(杨).ppt": {
+    "size": 8655872,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/22秋课件/22秋第8讲第9章 指针(杨).ppt": {
+    "size": 3450880,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/C语言实验.docx": {
+    "size": 29326,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment1-1.c": {
+    "size": 791,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment1-2.c": {
+    "size": 222,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment2-1.c": {
+    "size": 177,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment2-2.c": {
+    "size": 444,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment3-1.c": {
+    "size": 213,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment3-2.c": {
+    "size": 474,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment3-3.c": {
+    "size": 595,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment4-1.c": {
+    "size": 834,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment4-2.c": {
+    "size": 576,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment4-3.c": {
+    "size": 401,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment5-1.c": {
+    "size": 359,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment5-2.c": {
+    "size": 658,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment5-3.c": {
+    "size": 472,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment6-1.c": {
+    "size": 1173,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment7-1.c": {
+    "size": 925,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment7-2.c": {
+    "size": 549,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment7-3.c": {
+    "size": 354,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment8-1.c": {
+    "size": 5016,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/Experiment9-1.c": {
+    "size": 7105,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/accounting.txt": {
+    "size": 0,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/Experiment/高级语言程序设计-实验报告.docx": {
+    "size": 321669,
+    "time": 1737706734,
+    "hash": "032d7848c0ae9776df11247f11b1061586604b86"
+  },
+  "slides/README.md": {
+    "size": 60,
+    "time": 1701432291,
+    "hash": "afd8c8b6989b5cf0e522b352dc8895d0e3ef6cdb"
+  },
+  "tag.txt": {
+    "size": 80,
+    "time": 1737734615,
+    "hash": "3d32f4949a0a90ce999ebab4ce694917f139f696"
+  }
+}
