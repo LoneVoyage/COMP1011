@@ -1,12 +1,22 @@
-# COMP1011 - 程序设计与思维实践
+# COMP1011 - 计算思维与实践
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/(2023秋之前)%E5%AD%A6%E5%88%86-3-moccasin) ![Static Badge](https://img.shields.io/badge/(2024秋之后)%E5%AD%A6%E5%88%86-4-moccasin)
+<<<<<<< HEAD
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/(2023秋之前)%E5%AD%A6%E5%88%86-3-moccasin) ![Static Badge](https://img.shields.io/badge/(2024秋之后)%E5%AD%A6%E5%88%86-4-moccasin)  ![Static Badge](https://img.shields.io/badge/(2025%E7%A7%8B%E4%B9%8B%E5%90%8E)%E5%AD%A6%E5%88%86-2-moccasin)
 
-![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-30%25-wheat)  ![Static Badge](https://img.shields.io/badge/期末考试-60%25-wheat)
+![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-40%25-wheat)  ![Static Badge](https://img.shields.io/badge/期末考试-50%25-wheat)
+=======
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
+![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
+>>>>>>> 46fe0b2fdba27cca1dec16bcce2548ab786cc0f8
 
 2023年秋季学期之前，本门课程名称为高级语言程序设计，3学分，上课内容为C语言程序设计(第四版)的所有章节。
 
 2024年秋季学期开始，本门课程改成程序设计思维与实践，4学分，在原有内容的基础上，增加了部分数据结构和算法部分的内容，这是一门新型的三合一（笑）
+
+<<<<<<< HEAD
+2025年秋季学期开始，本门课程改成计算思维与实践，2学分，在24原有内容未减少的基础上，砍了大量学时和学分，原则上要求语言基础部分自学，实验内容超级加量，成为真神之新型三合一自学版（！）
 
 ## 教材
 
@@ -14,6 +24,27 @@
 - 数据结构与算法 / 廖明宏、郭福顺、张岩、李秀坤.--4版.--北京：高等教育出版社，2007.11，ISBN:978-7-04-022473-3
 
 ## 关于本课
+=======
+## 授课教师
+
+- 教师团队(集体)
+  - 教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
+  - 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
+    > 文 / [lmh](https://github.com/lmh12138)
+
+## 教材
+
+- **C语言程序设计**（苏小红 等 / 高等教育出版社 / 第 4 版 / textbook）
+- **数据结构与算法**（廖明宏 / 郭福顺 / 张岩 / 李秀坤 / 高等教育出版社 / 第 4 版 / textbook）
+
+## 在线资源
+
+- [微软官方 C 语言文档](https://learn.microsoft.com/zh-cn/cpp/c-language/organization-of-the-c-language-reference?view=msvc-170)：微软官方提供的C教程，内容与时俱进，适合电子化学习。
+- [OI Wiki](https://oi-wiki.org/)：算法相关知识可以参考此 Wiki。
+- [中国大学 MOOC / B站网课](https://www.icourse163.org/)：推荐北大的 C语言 和浙江大学翁恺的 C语言。
+
+## 课程内容
+>>>>>>> 46fe0b2fdba27cca1dec16bcce2548ab786cc0f8
 
 3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。
 
@@ -28,7 +59,7 @@
   - 通过权威书籍学习：如果以上的方式都不适合你，你也可以选择一本业界公认的权威书籍进行学习（避雷国内教材！）。可以试试 C Primer Plus，但我个人觉得里面的内容比较拖沓。
 - 放弃 C 语言（逃）。直接上手 cpp 其实也没啥太大问题，不过 cpp 水太深，并且也很容易陷入与 c 语言一样的困境——接触的东西全是十几二十年前的内容，新特性一点不会。
 
-> 文 / [longlin](https://github.com/longlin10086), 2023.9
+> 文 / [longlin](https://github.com/longlin10086)，2023-09
 
 24 的程序设计属于是烂上加烂，将算法与语法混合着讲，而且顺序十分奇葩。涉及递归、栈、链表、排序算法。到现在老师上课和考试用的 C 语言标准还是 C89（虽然教材已经用的 C99 了）。
 
@@ -36,7 +67,30 @@
 
 个人非常赞同以上 longlin 的建议。算法相关知识可以去 [OI Wiki](https://oi-wiki.org/)
 
+<<<<<<< HEAD
 > 文 / [syhanjin](https://github.com/syhanjin), 2025.1
+
+25 的程序设计明明削减了学时，内容上却没有丝毫精简。在这里，课程将继承算法与语法混讲的思路，导引 C 语言 之力。你将扮演一位名为“学生”的神秘角色，在神秘自学内容中邂逅冯诺依曼架构和算法概念，然后直接进入函数、指针、字符串与结构体的世界，和他们一起击败递归、二分、排序、链表、栈、队列和文件管理，找回失散的内存安全——同时，逐步发掘 程设 的真相……
+
+继承了 24 算法与语法混讲的思路，并佐以神秘自学内容。语言部分最好在所谓自学期间尽量掌握（专心学数学也不错），不要指望靠此理论部分课程能够学会 C 语言（自学更有用，然而课堂表现上看大部分同学基础不佳）。圣遗物级别的 PPT，面向 PPT 的授课，巨量的实验代码，手写代码的期末考……课件中 C 语言仍保留了大量 C89 残骸，不过正常用的还是 C99。在学分腰斩之后，以更高的学分绩为目标，它究竟值得分配多少资源值得商榷。（难道结局终于还是 All AI 吗……）
+
+本门课程在无 AI 使用，无参考，无提问，无缺勤的限制下体验完成后，就有基础的同学来说体验较差，也没有可感的提升作用。零基础的同学可能更需要的是[《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)甚至[《你缺失的那门计算机课》](https://www.criwits.top/missing/)，然后多多依赖参考书、文档以及 AI 学习。至少就我个人而言，若再来一次，我只会投入最低限度的时间，然后多学点数学，或者真正地“编程”。哪怕是出去呼吸新鲜空气呢？
+
+下面抛开此门课程，仅对编程学习给出一些个人建议。
+
+继续赞同以上 longlin 的意见。事实上本门课程无论之于编程基础还是算法和数据结构都只是浅尝辄止，若对算法相关知识感兴趣可以了解一下 ACM 竞赛相关。你能接触到的大多数算法知识都可以在 [OI Wiki](https://oi-wiki.org/) 上找到。
+
+接下来粗略谈谈自学方面。作为愈发稀少的古法编程派，对现在 AI 发展还是很感慨的。2025 年或可称作 vibe coding 元年，各家模型速度惊人的迭代在编码能力上的提升有目共睹。虽然我仍然坚持学习阶段只有独立完成代码作业（不使用 AI 生成）才能裨益于编程核心能力的形成，但不可否认熟悉使用 AI 辅助学习，享受其背后庞大的知识库也是完全有必要的。不论任何课程都是如此，AI 辅助学习也或将成为决定性的学习方法。
+
+在 AI 辅助之外的传统自学渠道，个人主要推荐通过参考书和在线文档、教程，相对不太推荐网课这种形式。文字类的形式学习时可以掌控全篇，在浏览速度和跳跃上非常灵活便捷，而网课视频则没有这种一体性和灵活性，其主要优势在于能够完全复现交互式的界面，更适合分享环境配置等一些演示教程。
+
+参考书方面，除了《C Primer Plus》外，也推荐同为经典的黑书《C 程序设计语言》，机械工业出版社出版（以后你还会见到更多该系列的优秀黑书），个人体感没有《C Primer Plus》那么拖沓。想入门 C++ 则推荐《C++ Primer》（跟《C++ Primer Plus》不是一个系列，那本本人没有读过），涵盖了 C++11 在语言方面的全部知识。
+
+在线文档、教程方面，个人比较推荐 [菜鸟教程 runoob 下的 C 语言教程](https://www.runoob.com/cprogramming/c-tutorial.html)，内容比较完善，并附有简单的在线模拟便于移动设备使用。私以为 [微软官方 C 语言文档](https://learn.microsoft.com/zh-cn/cpp/c-language/organization-of-the-c-language-reference?view=msvc-170) 已经成为一本不一定好使的字典，个人不再推荐通过此文档学习。需要这样的字典则更推荐 [cppreference](https://zh.cppreference.net/index.html)，右上角为搜索框，下翻就是 C 的参考内容，方便查阅 C/C++ 的各种基本概念和标准库函数。
+
+此外，建议所有同学学习[《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)和[《你缺失的那门计算机课》](https://www.criwits.top/missing/)，涵盖了计算机使用的基本常识和计算机相关的泛化能力。
+
+> 文 / [LoneVoyage](https://github.com/LoneVoyage), 2026.3
 
 ## 关于教师
 
@@ -45,6 +99,9 @@
 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
 
 > 文 / [lmh](https://github.com/lmh12138)
+=======
+> 文 / [syhanjin](https://github.com/syhanjin)，2025-01
+>>>>>>> 46fe0b2fdba27cca1dec16bcce2548ab786cc0f8
 
 ## 关于实验
 
@@ -64,7 +121,17 @@
 
 实验课最后一次有现场检查，会随机选一次实验让你用 Debug 调试，并讲解思路（原则上是使用 CodeBlocks，但是可以找老师检查用自己熟悉的 IDE，取决于老师）
 
-> 文 / [syhanjin](https://github.com/syhanjin/), 2025.1
+> 文 / [syhanjin](https://github.com/syhanjin)，2025-01
+
+25 实验课仍有改动，现共 12 次实验，具体实验内容根据课程进度。正常不硬性要求使用 CodeBlocks，详询老师（你为什么要吃 CB?）。提交文件为包含源代码、编译产物、项目文件（如果有）的zip压缩包，大部分不需要提交文件，直接在 OJ 上提交源码。
+
+最后两个实验仍是单向/双向链表的综合项目，与24一致（但是一百多行代码**不可以**解决），具体来说，鄙人的 Lab12 总行数为 549（！！！）
+
+实验课也有所谓理论部分，第一节会讲讲 CodeBlocks、简单的程序调试，之后是一点点实验算法思路、代码解析，标准库等内容。简单内容基本上是 PPT，复杂内容实验课讲不清楚，理论课还会再讲（也讲不清楚（逃））。机房比较闷，可以问老师已经提前完成是否可以离开前往自习。可以试试在课前完成实验，基础扎实的情况下前面的简单实验每个只需要十几分钟或是几分钟，最后的大实验在乐观情况下能在两个小时内解决（指独立完成。AI 生成论外）。
+
+实验课最后一次有现场检查，与24一致不再赘述。
+
+> 文 / [LoneVoyage](https://github.com/LoneVoyage), 2026.3
 
 ## 关于考试
 
@@ -80,7 +147,15 @@
 
 > 客观题按照要求，不能超过 30%，所以选择、填空之外增加了问答题，但整体内容主要还是涉及基本语法、概念和编程能力的检验，由于扩充了数据结构和算法，所以编程和概念也会扩充到这两部分内容。包括栈、文件、链表，这几部分也都是程序设计思维与实践的重要内容组成部分，但是基于栈的函数调用机制未涉及。主要内容都已我们课件上的讲解内容为主。
 
-> 文 / [syhanjin](https://github.com/syhanjin/), 2025.1
+> 文 / [syhanjin](https://github.com/syhanjin)，2025-01
+
+25考试内容具体可参考回忆版试卷，缺失了一道选择题。考试总之是在所有 PPT 的并集范围内，25的试卷内容也无力吐槽（当时考后众人力竭无力回忆，并有《计算思维与实践保密协议 by Alkaid.pdf》传世）。试题内容较多，有两大张答题卡。
+
+复习方面，虽然考试是在所有 PPT 的并集范围内，但并不建议通过 PPT 复习，因其内容分散、排版较杂、美术风格特殊，导致 PPT 复习体验不佳。可在 `资源下载/notes/` 中获取 摆渡 使用 Github Copilot 整理课件生成的复习概要。建议快速浏览全文，对于已经掌握的知识点一带而过，重点关注自己不熟悉或容易混淆的部分（如指针、文件操作、易错点辨析等）。
+
+对试题是否有误没有清晰印象，回忆版试卷及其答案也未精校，答案包含部分 AI 辅助生成内容，不代表任何官方组织或教师，内容需要自行分辨，仅供参考。
+
+> 文 / [LoneVoyage](https://github.com/LoneVoyage), 2026.3
 
 ## Tips
 
